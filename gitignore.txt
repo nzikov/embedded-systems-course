@@ -1,0 +1,9 @@
+.settings/
+\Debug
+\Inc
+\Startup
+\Drivers
+*.cproject
+*.mx
+*.project
+*.ld
