@@ -1,11 +1,11 @@
 .settings/
-\Debug
-\Inc
-\Startup
-\Drivers
+/Debug
+/Inc
+/Startup
+/Drivers
 *.cproject
 *.mx
 *.project
 *.ld
-*.pdf
-\intro
+*pdf
+/intro
